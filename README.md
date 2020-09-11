@@ -1,5 +1,6 @@
 ### Hi Professor please allow me to take CSC 420 by waiving the prerequisite requirement 🙃
-[mailto](siddhant.jain@mail.utoronto.ca)
+<siddhant.jain@mail.utoronto.ca>
+
 **1004070024**
 
 ### Courses taken:
