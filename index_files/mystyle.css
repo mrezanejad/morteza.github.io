@@ -1,7 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400);
 body 
 {
-    background: #cce6ff;
+
+background-color: #fde7f9;
+background-image: linear-gradient(315deg, #fde7f9 0%, #ced8f0 74%);
+
     font: normal 100% Lato, sans-serif;
     margin: 0;
     color: #555;
@@ -13,7 +16,7 @@ body > *
     padding: 20px 25px;
     margin: 20px auto;
     background: white;
-    border-radius: 13px;
+    border-radius: 10px;
 }
 
 a 
